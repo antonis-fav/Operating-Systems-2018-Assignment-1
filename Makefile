@@ -9,10 +9,10 @@ RM = rm -f
 # ==================================================
 # TARGETS
 
-all: Antonis_Favvas
+all: OS
 
 # final link for executable
-episode_rename: Antonis_Favvas.0
+episode_rename: OS.0
 	$(CC) $^ -o $@
 
 # generate objects
@@ -25,4 +25,4 @@ clean:
 
 # remove executable
 purge: clean
-	$(RM)Antonis_Favvas
+	$(RM)OS
