@@ -19,9 +19,21 @@ developed for the course *Operating Systems* (Aristotle University of Thessaloni
 
 ## 🚀 How to Run
 
-1. Compile using:
-   ```bash
-   make
+1. **Compile the code**:
+```bash
+make
+
+2. **Run in interactive mode**
+```bash
+./OS
+
+3. **Run in batch mode**
+```bash
+./OS file.txt
+
+
+
+
 
 
 
