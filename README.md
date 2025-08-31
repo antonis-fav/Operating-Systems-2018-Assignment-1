@@ -7,7 +7,7 @@ developed for the course *Operating Systems* (Aristotle University of Thessaloni
 
 ## 🔹 Modes of Operation
 
-### 🖥️ Interactive Mode
+🖥️ Interactive Mode
 - The shell executes commands typed by the user.  
 - Commands with **pipes (`|`)** are supported.  
 
