@@ -30,8 +30,9 @@ make
 ```
 
 3. **Run in batch mode**
-bash
+```bash
 ./OS file.txt
+```
 
 
 
