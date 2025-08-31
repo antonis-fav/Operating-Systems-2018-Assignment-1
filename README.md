@@ -9,7 +9,7 @@ This custom shell should perform properly both in **Interactive** and in **Batch
 
 **Batch**: In this mode the custom shell must execute the commands that exist inside a **txt file**. :warning: The txt file must be contained in the same folder that the source code is stored.
 
-To run the code you just have to: type **make** and then  **./OS**.
+To run the code type in your terminal **make** and then  **./OS**.
 
 If you want to access the batch mode with a txt file, type **./OS file.txt**.
                             
