@@ -1,3 +1,19 @@
 # Operating-Systems-2018-Assignment
 
-Το παρακάτω πρόγραμμα αποτελεί μία προσπάθεια δημιουργίας ενός προσομοιωτή κάποιων βασικών λειτουργιών-εντολών του κλασσικού shell του λειτουργικού συστήματος των linux.Οι 2 πιο σημαντικές προδιαργραφές αυτόυ του project ήταν το shell να λειτουργεί και σε interactive αλλά και σε batch λειτουργεία. Οσον αναφορά την interactive λειτουργία φαίνεται να ανταποκρίνεται καλά σε απλές αλλα και σε πιο σύνθετες εντολες (με pipes). Μέσα στην αναφορά εμπεριέχεται Makefile για την πιο εύκολη διαχείρηση του κώδικα.
+
+In this repository you will find a custom **simulator** of the classic **Linux Shell**, that was developed for the course Operating Systems (Aristotle University of Thessaloniki 2018).
+
+This custom shell should perform properly both in **Interactive** and in **Batch** mode.
+
+**Interactive**: In this mode the custom shell must execute the user's commands. Commands that include **pipes** are also supported.
+
+**Batch**: In this mode the custom shell must execute the commands that exist inside a **txt file**. :warning: The txt file must be contained in the same folder that the source code is stored.
+
+To run the code you just have to: type **make** and then  **./OS**.
+
+If you want to access the batch mode with a txt file, type **./OS file.txt**.
+                            
+
+
+
+
